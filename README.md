@@ -1,6 +1,6 @@
 # U-Net for Nuclei Segmentation
 
-This repository contains code for training a U-Net model for nuclei segmentation using Python and TensorFlow. The U-Net architecture is a popular convolutional neural network used for image segmentation tasks, particularly in the biomedical domain.
+This repository contains code (.ipynb file) for training a U-Net model for nuclei segmentation using Python and TensorFlow. The U-Net architecture is a popular convolutional neural network used for image segmentation tasks, particularly in the biomedical domain. The repository also contains a reference report regarding the code and other information regarding the techniques used in the code.
 
 ## Table of Contents
 - [Introduction](#introduction)
